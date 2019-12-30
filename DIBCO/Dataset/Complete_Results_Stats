@@ -1,0 +1,94 @@
+DIBCO-2009 
+
+The F-Measure is 71.765300 
+The Pseudo F-Measure is 80.482010 
+The PSNR is 14.685640 
+The DRD is 9.088200 
+The Recall is 59.238230 
+The Precision is 96.798390 
+The Pseudo Recall is 71.415590 
+The Pseudo Precision is 95.991200 
+
+
+DIBCO-2010
+
+The F-Measure is 54.504490 
+The Pseudo F-Measure is 60.157270 
+The PSNR is 14.234310 
+The DRD is 9.795920 
+The Recall is 40.431410 
+The Precision is 98.205310 
+The Pseudo Recall is 47.209070 
+The Pseudo Precision is 97.759280 
+
+
+DIBCO-2011
+
+The F-Measure is 74.018112 
+The Pseudo F-Measure is 82.029956 
+The PSNR is 14.999250 
+The DRD is 6.760875 
+The Recall is 61.010825 
+The Precision is 97.461994 
+The Pseudo Recall is 72.940025 
+The Pseudo Precision is 97.093787 
+
+DIBCO-2012
+
+The F-Measure is 61.566433 
+The Pseudo F-Measure is 66.683700 
+The PSNR is 14.761778 
+The DRD is 9.353033 
+The Recall is 48.823122 
+The Precision is 97.937889 
+The Pseudo Recall is 55.052856 
+The Pseudo Precision is 97.387200 
+
+
+DIBCO-2013
+
+The F-Measure is 71.054469 
+The Pseudo F-Measure is 76.559894 
+The PSNR is 15.724550 
+The DRD is 7.614388 
+The Recall is 59.980644 
+The Precision is 96.658937 
+The Pseudo Recall is 69.412925 
+The Pseudo Precision is 95.978150 
+
+
+
+DIBCO-2014
+
+The F-Measure is 69.191140 
+The Pseudo F-Measure is 75.302980 
+The PSNR is 14.002580 
+The DRD is 9.018130 
+The Recall is 54.766640 
+The Precision is 99.619030 
+The Pseudo Recall is 63.324310 
+The Pseudo Precision is 99.502360 
+
+
+DIBCO-2016
+
+The F-Measure is 72.583410 
+The Pseudo F-Measure is 76.553570 
+The PSNR is 16.109350 
+The DRD is 7.620550 
+The Recall is 60.616710 
+The Precision is 98.155790 
+The Pseudo Recall is 65.863530 
+The Pseudo Precision is 97.729690 
+
+DIBCO-2017
+
+The F-Measure is 72.986475 
+The Pseudo F-Measure is 81.663470 
+The PSNR is 14.389910 
+The DRD is 7.385560 
+The Recall is 60.827040 
+The Precision is 95.203140 
+The Pseudo Recall is 74.480695 
+The Pseudo Precision is 94.264480 
+

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Clion_Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\Cellar\;CMake Files\..\..\..\..\..\..\usr\local\Cellar\opencv@3\;CMake Files\..\..\..\..\..\..\usr\local\Cellar\opencv@3\share\;CMake Files\..\..\..\..\..\..\usr\local\Cellar\opencv@3\share\OpenCV\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Clion_Project">
+				<Option output="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Clion_Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/hdr"/>
+					<Add directory="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/util"/>
+					<Add directory="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/util/hdr"/>
+					<Add directory="/usr/local/Cellar/opencv@3/include"/>
+					<Add directory="/usr/local/Cellar/opencv@3/include/opencv"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 Clion_Project"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Clion_Project/fast">
+				<Option output="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Clion_Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/hdr"/>
+					<Add directory="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/util"/>
+					<Add directory="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/util/hdr"/>
+					<Add directory="/usr/local/Cellar/opencv@3/include"/>
+					<Add directory="/usr/local/Cellar/opencv@3/include/opencv"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 Clion_Project/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/Binarization/PopularDocBinarization.cpp">
+			<Option target="Clion_Project"/>
+		</Unit>
+		<Unit filename="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/Binarization/hdr/PopularDocBinarization.hpp">
+			<Option target="Clion_Project"/>
+		</Unit>
+		<Unit filename="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/ImageFiltering/ImageFiltering.cpp">
+			<Option target="Clion_Project"/>
+		</Unit>
+		<Unit filename="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/ImageFiltering/hdr/AnisotropicGaussianFilter.h">
+			<Option target="Clion_Project"/>
+		</Unit>
+		<Unit filename="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/ImageFiltering/hdr/ImageFiltering.hpp">
+			<Option target="Clion_Project"/>
+		</Unit>
+		<Unit filename="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/TextGraphichSeperationBulk.h">
+			<Option target="Clion_Project"/>
+		</Unit>
+		<Unit filename="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/TextGraphicsSeperation.cpp">
+			<Option target="Clion_Project"/>
+		</Unit>
+		<Unit filename="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/model.yml">
+			<Option target="Clion_Project"/>
+		</Unit>
+		<Unit filename="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/util/BasicAlgo.cpp">
+			<Option target="Clion_Project"/>
+		</Unit>
+		<Unit filename="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/util/BasicProcessingTechniques.cpp">
+			<Option target="Clion_Project"/>
+		</Unit>
+		<Unit filename="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/util/DirectoryHandler.cpp">
+			<Option target="Clion_Project"/>
+		</Unit>
+		<Unit filename="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/util/hdr/BasicAlgo.h">
+			<Option target="Clion_Project"/>
+		</Unit>
+		<Unit filename="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/util/hdr/BasicProcessingTechniques.h">
+			<Option target="Clion_Project"/>
+		</Unit>
+		<Unit filename="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/util/hdr/DirectoryHandler.hpp">
+			<Option target="Clion_Project"/>
+		</Unit>
+		<Unit filename="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/../../../../../../usr/local/Cellar/opencv@3/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\Cellar\opencv@3\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/../../../../../../usr/local/Cellar/opencv@3/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\Cellar\opencv@3\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/../../../../../../usr/local/Cellar/opencv@3/share/OpenCV/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\Cellar\opencv@3\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/Users/tmondal/Documents/MATLAB/Diploma_Images/C_Plus_Plus_Code/../../../../../../usr/local/Cellar/opencv@3/share/OpenCV/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\Cellar\opencv@3\share\OpenCV\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

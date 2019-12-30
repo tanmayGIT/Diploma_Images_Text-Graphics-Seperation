@@ -1,0 +1,4 @@
+# Exclude temp nibs and swap files
+*~.dat
+*.dat
+

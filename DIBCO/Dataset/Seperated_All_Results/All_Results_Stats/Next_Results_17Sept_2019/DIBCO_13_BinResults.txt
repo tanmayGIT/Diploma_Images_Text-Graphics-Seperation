@@ -1,0 +1,183 @@
+
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results>cd C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT\
+
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT>for /R %f in (*.bmp) do ("C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_metrics\DIBCO_metrics.exe" "%f" C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\AlgoResult\%~nf.png "%~nf_RWeights.dat" "%~nf_PWeights.dat" )
+
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT>("C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT\HW01_estGT.bmp" C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\AlgoResult\HW01_estGT.png "HW01_estGT_RWeights.dat" "HW01_estGT_PWeights.dat" )
+
+F-Measure               :       43.8734
+pseudo F-Measure (Fps)  :       47.2287
+PSNR                    :       15.511
+DRD                     :       11.771
+Recall                  :       28.1076
+Precision               :       99.9187
+pseudo-Recall (Rps)     :       30.9238
+pseudo-Precision (Pps)  :       99.9038
+
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT>("C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT\HW02_estGT.bmp" C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\AlgoResult\HW02_estGT.png "HW02_estGT_RWeights.dat" "HW02_estGT_PWeights.dat" )
+
+F-Measure               :       77.6748
+pseudo F-Measure (Fps)  :       89.4141
+PSNR                    :       16.1019
+DRD                     :       4.8594
+Recall                  :       63.6223
+Precision               :       99.6947
+pseudo-Recall (Rps)     :       81.1059
+pseudo-Precision (Pps)  :       99.6187
+
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT>("C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT\HW03_estGT.bmp" C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\AlgoResult\HW03_estGT.png "HW03_estGT_RWeights.dat" "HW03_estGT_PWeights.dat" )
+
+F-Measure               :       51.5801
+pseudo F-Measure (Fps)  :       57.2005
+PSNR                    :       13.6535
+DRD                     :       10.2073
+Recall                  :       34.7948
+Precision               :       99.6541
+pseudo-Recall (Rps)     :       40.1292
+pseudo-Precision (Pps)  :       99.5502
+
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT>("C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT\HW04_estGT.bmp" C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\AlgoResult\HW04_estGT.png "HW04_estGT_RWeights.dat" "HW04_estGT_PWeights.dat" )
+
+F-Measure               :       95.5195
+pseudo F-Measure (Fps)  :       98.5177
+PSNR                    :       23.7889
+DRD                     :       1.8301
+Recall                  :       93.5377
+Precision               :       97.5871
+pseudo-Recall (Rps)     :       99.7031
+pseudo-Precision (Pps)  :       97.3602
+
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT>("C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT\HW05_estGT.bmp" C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\AlgoResult\HW05_estGT.png "HW05_estGT_RWeights.dat" "HW05_estGT_PWeights.dat" )
+
+F-Measure               :       88.7217
+pseudo F-Measure (Fps)  :       88.488
+PSNR                    :       21.2282
+DRD                     :       4.492
+Recall                  :       95.4539
+Precision               :       82.8765
+pseudo-Recall (Rps)     :       99.5128
+pseudo-Precision (Pps)  :       79.6623
+
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT>("C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT\HW06_estGT.bmp" C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\AlgoResult\HW06_estGT.png "HW06_estGT_RWeights.dat" "HW06_estGT_PWeights.dat" )
+
+F-Measure               :       88.3112
+pseudo F-Measure (Fps)  :       94.699
+PSNR                    :       18.4887
+DRD                     :       3.5117
+Recall                  :       80.0147
+Precision               :       98.5271
+pseudo-Recall (Rps)     :       91.4145
+pseudo-Precision (Pps)  :       98.2283
+
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT>("C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT\HW07_estGT.bmp" C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\AlgoResult\HW07_estGT.png "HW07_estGT_RWeights.dat" "HW07_estGT_PWeights.dat" )
+
+F-Measure               :       31.0499
+pseudo F-Measure (Fps)  :       30.5142
+PSNR                    :       17.2743
+DRD                     :       9.0407
+Recall                  :       18.3802
+Precision               :       99.9383
+pseudo-Recall (Rps)     :       18.0065
+pseudo-Precision (Pps)  :       99.9229
+
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT>("C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT\HW08_estGT.bmp" C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\AlgoResult\HW08_estGT.png "HW08_estGT_RWeights.dat" "HW08_estGT_PWeights.dat" )
+
+F-Measure               :       92.1142
+pseudo F-Measure (Fps)  :       97.4328
+PSNR                    :       20.5153
+DRD                     :       2.5797
+Recall                  :       86.0535
+Precision               :       99.0933
+pseudo-Recall (Rps)     :       95.8768
+pseudo-Precision (Pps)  :       99.04
+
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT>("C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT\PR01_estGT.bmp" C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\AlgoResult\PR01_estGT.png "PR01_estGT_RWeights.dat" "PR01_estGT_PWeights.dat" )
+
+F-Measure               :       69.4237
+pseudo F-Measure (Fps)  :       81.3169
+PSNR                    :       16.2303
+DRD                     :       6.7291
+Recall                  :       53.211
+Precision               :       99.8452
+pseudo-Recall (Rps)     :       68.6155
+pseudo-Precision (Pps)  :       99.7886
+
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT>("C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT\PR02_estGT.bmp" C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\AlgoResult\PR02_estGT.png "PR02_estGT_RWeights.dat" "PR02_estGT_PWeights.dat" )
+
+F-Measure               :       89.4295
+pseudo F-Measure (Fps)  :       99.0238
+PSNR                    :       17.6707
+DRD                     :       3.0319
+Recall                  :       80.9938
+Precision               :       99.8266
+pseudo-Recall (Rps)     :       98.2633
+pseudo-Precision (Pps)  :       99.7961
+
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT>("C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT\PR03_estGT.bmp" C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\AlgoResult\PR03_estGT.png "PR03_estGT_RWeights.dat" "PR03_estGT_PWeights.dat" )
+
+F-Measure               :       79.5389
+pseudo F-Measure (Fps)  :       81.8949
+PSNR                    :       16.0455
+DRD                     :       7.5074
+Recall                  :       66.0342
+Precision               :       99.9873
+pseudo-Recall (Rps)     :       69.3474
+pseudo-Precision (Pps)  :       99.9862
+
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT>("C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT\PR04_estGT.bmp" C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\AlgoResult\PR04_estGT.png "PR04_estGT_RWeights.dat" "PR04_estGT_PWeights.dat" )
+
+F-Measure               :       72.258
+pseudo F-Measure (Fps)  :       80.7747
+PSNR                    :       12.5447
+DRD                     :       11.7878
+Recall                  :       58.3887
+Precision               :       94.7686
+pseudo-Recall (Rps)     :       71.0217
+pseudo-Precision (Pps)  :       93.6327
+
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT>("C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT\PR05_estGT.bmp" C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\AlgoResult\PR05_estGT.png "PR05_estGT_RWeights.dat" "PR05_estGT_PWeights.dat" )
+
+F-Measure               :       78.5943
+pseudo F-Measure (Fps)  :       87.2982
+PSNR                    :       11.4322
+DRD                     :       10.2148
+Recall                  :       71.7991
+Precision               :       86.8103
+pseudo-Recall (Rps)     :       91.0254
+pseudo-Precision (Pps)  :       83.8642
+
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT>("C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT\PR06_estGT.bmp" C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\AlgoResult\PR06_estGT.png "PR06_estGT_RWeights.dat" "PR06_estGT_PWeights.dat" )
+
+F-Measure               :       79.3535
+pseudo F-Measure (Fps)  :       89.6149
+PSNR                    :       14.0477
+DRD                     :       6.8568
+Recall                  :       66.6611
+Precision               :       98.0161
+pseudo-Recall (Rps)     :       82.8702
+pseudo-Precision (Pps)  :       97.5547
+
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT>("C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT\PR07_estGT.bmp" C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\AlgoResult\PR07_estGT.png "PR07_estGT_RWeights.dat" "PR07_estGT_PWeights.dat" )
+
+F-Measure               :       80.8951
+pseudo F-Measure (Fps)  :       92.9933
+PSNR                    :       11.6765
+DRD                     :       5.1176
+Recall                  :       67.9532
+Precision               :       99.9265
+pseudo-Recall (Rps)     :       86.9726
+pseudo-Precision (Pps)  :       99.9096
+
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT>("C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT\PR08_estGT.bmp" C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\AlgoResult\PR08_estGT.png "PR08_estGT_RWeights.dat" "PR08_estGT_PWeights.dat" )
+
+F-Measure               :       80.6267
+pseudo F-Measure (Fps)  :       87.5687
+PSNR                    :       14.791
+DRD                     :       6.5942
+Recall                  :       80.4284
+Precision               :       80.826
+pseudo-Recall (Rps)     :       98.3283
+pseudo-Precision (Pps)  :       78.9317
+
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT>cmd /k
+C:\Users\mondal\Documents\DIBCO\Dataset\Seperated_All_Results\DIBCO_13\GT>

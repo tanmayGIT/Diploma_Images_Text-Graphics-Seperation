@@ -1,0 +1,117 @@
+
+C:\Users\mondal\Documents\Dataset>cd C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\
+
+C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth>for /R %f in (*.bmp) do ("C:\Users\mondal\Documents\Dataset\DIBCO_metrics\DIBCO_metrics.exe" "%f" C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\BinarizationResults\niblack\%~nf.png C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\%~nf_RWeights.dat C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\%~nf_PWeights.dat )
+
+C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth>("C:\Users\mondal\Documents\Dataset\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p01_CS_SF_NVG_600.bmp" C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\BinarizationResults\niblack\p01_CS_SF_NVG_600.png C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p01_CS_SF_NVG_600_RWeights.dat C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p01_CS_SF_NVG_600_PWeights.dat )
+
+F-Measure               :       11.1524
+pseudo F-Measure (Fps)  :       10.9357
+PSNR                    :       1.9224
+DRD                     :       419.4933
+Recall                  :       99.5703
+Precision               :       5.907
+pseudo-Recall (Rps)     :       99.4755
+pseudo-Precision (Pps)  :       5.7859
+
+C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth>("C:\Users\mondal\Documents\Dataset\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p02_CS_SF_NVG_600.bmp" C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\BinarizationResults\niblack\p02_CS_SF_NVG_600.png C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p02_CS_SF_NVG_600_RWeights.dat C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p02_CS_SF_NVG_600_PWeights.dat )
+
+F-Measure               :       10.9395
+pseudo F-Measure (Fps)  :       10.7272
+PSNR                    :       1.8872
+DRD                     :       417.9051
+Recall                  :       99.6061
+Precision               :       5.7876
+pseudo-Recall (Rps)     :       99.5214
+pseudo-Precision (Pps)  :       5.6691
+
+C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth>("C:\Users\mondal\Documents\Dataset\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p03_CS_SF_NVG_600.bmp" C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\BinarizationResults\niblack\p03_CS_SF_NVG_600.png C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p03_CS_SF_NVG_600_RWeights.dat C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p03_CS_SF_NVG_600_PWeights.dat )
+
+F-Measure               :       11.105
+pseudo F-Measure (Fps)  :       10.8873
+PSNR                    :       1.9197
+DRD                     :       419.2941
+Recall                  :       99.5784
+Precision               :       5.8804
+pseudo-Recall (Rps)     :       99.3072
+pseudo-Precision (Pps)  :       5.7594
+
+C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth>("C:\Users\mondal\Documents\Dataset\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p04_CS_SF_NVG_600.bmp" C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\BinarizationResults\niblack\p04_CS_SF_NVG_600.png C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p04_CS_SF_NVG_600_RWeights.dat C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p04_CS_SF_NVG_600_PWeights.dat )
+
+F-Measure               :       11.0778
+pseudo F-Measure (Fps)  :       10.8619
+PSNR                    :       1.903
+DRD                     :       416.4528
+Recall                  :       99.5904
+Precision               :       5.8651
+pseudo-Recall (Rps)     :       99.4844
+pseudo-Precision (Pps)  :       5.7445
+
+C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth>("C:\Users\mondal\Documents\Dataset\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p05_CS_SF_NVG_600.bmp" C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\BinarizationResults\niblack\p05_CS_SF_NVG_600.png C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p05_CS_SF_NVG_600_RWeights.dat C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p05_CS_SF_NVG_600_PWeights.dat )
+
+F-Measure               :       11.1509
+pseudo F-Measure (Fps)  :       10.9321
+PSNR                    :       1.9361
+DRD                     :       422.4828
+Recall                  :       99.611
+Precision               :       5.906
+pseudo-Recall (Rps)     :       99.4336
+pseudo-Precision (Pps)  :       5.784
+
+C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth>("C:\Users\mondal\Documents\Dataset\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p06_CL_SF_NVG_600.bmp" C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\BinarizationResults\niblack\p06_CL_SF_NVG_600.png C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p06_CL_SF_NVG_600_RWeights.dat C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p06_CL_SF_NVG_600_PWeights.dat )
+
+F-Measure               :       10.7305
+pseudo F-Measure (Fps)  :       10.5348
+PSNR                    :       1.872
+DRD                     :       430.5935
+Recall                  :       99.6576
+Precision               :       5.6705
+pseudo-Recall (Rps)     :       99.5719
+pseudo-Precision (Pps)  :       5.5616
+
+C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth>("C:\Users\mondal\Documents\Dataset\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p07_CL_SF_NVG_600.bmp" C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\BinarizationResults\niblack\p07_CL_SF_NVG_600.png C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p07_CL_SF_NVG_600_RWeights.dat C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p07_CL_SF_NVG_600_PWeights.dat )
+
+F-Measure               :       10.841
+pseudo F-Measure (Fps)  :       10.6349
+PSNR                    :       1.9037
+DRD                     :       420.3973
+Recall                  :       99.6743
+Precision               :       5.7322
+pseudo-Recall (Rps)     :       99.6582
+pseudo-Precision (Pps)  :       5.6171
+
+C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth>("C:\Users\mondal\Documents\Dataset\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p08_CL_SF_NVG_600.bmp" C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\BinarizationResults\niblack\p08_CL_SF_NVG_600.png C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p08_CL_SF_NVG_600_RWeights.dat C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p08_CL_SF_NVG_600_PWeights.dat )
+
+F-Measure               :       10.9111
+pseudo F-Measure (Fps)  :       10.6961
+PSNR                    :       1.8929
+DRD                     :       408.8813
+Recall                  :       99.6727
+Precision               :       5.7714
+pseudo-Recall (Rps)     :       99.6198
+pseudo-Precision (Pps)  :       5.6515
+
+C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth>("C:\Users\mondal\Documents\Dataset\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p09_CL_SF_NVG_600.bmp" C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\BinarizationResults\niblack\p09_CL_SF_NVG_600.png C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p09_CL_SF_NVG_600_RWeights.dat C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p09_CL_SF_NVG_600_PWeights.dat )
+
+F-Measure               :       10.8387
+pseudo F-Measure (Fps)  :       10.6339
+PSNR                    :       1.8968
+DRD                     :       422.7809
+Recall                  :       99.6711
+Precision               :       5.731
+pseudo-Recall (Rps)     :       99.6639
+pseudo-Precision (Pps)  :       5.6166
+
+C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth>("C:\Users\mondal\Documents\Dataset\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p10_CL_SF_NVG_600.bmp" C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\BinarizationResults\niblack\p10_CL_SF_NVG_600.png C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p10_CL_SF_NVG_600_RWeights.dat C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth\p10_CL_SF_NVG_600_PWeights.dat )
+
+F-Measure               :       10.8709
+pseudo F-Measure (Fps)  :       10.6648
+PSNR                    :       1.9017
+DRD                     :       425.4074
+Recall                  :       99.6636
+Precision               :       5.749
+pseudo-Recall (Rps)     :       99.618
+pseudo-Precision (Pps)  :       5.634
+
+C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth>cmd /k
+C:\Users\mondal\Documents\Dataset\Fujitsu_Seperated\600_DPI\Gray\Ground_Truth>

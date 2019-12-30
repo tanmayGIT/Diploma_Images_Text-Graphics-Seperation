@@ -1,0 +1,3 @@
+/home/mondal/Documents/Project_Work/Diploma_Images_Text-Graphics-Seperation/C_Plus_Plus_Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mondal/Documents/Project_Work/Diploma_Images_Text-Graphics-Seperation/C_Plus_Plus_Code/cmake-build-debug/CMakeFiles/C_plus_plus_Project.dir
+/home/mondal/Documents/Project_Work/Diploma_Images_Text-Graphics-Seperation/C_Plus_Plus_Code/cmake-build-debug/CMakeFiles/edit_cache.dir
